@@ -11,6 +11,6 @@ TalentScout is a friendly and professional hiring assistant chatbot built with G
 ## 🛠 Installation
 
 ```bash
-git clone https://github.com/yourusername/talentscout-chatbot.git
+git clone https://github.com/athul0rameshan9/talentscout-chatbot.git
 cd talentscout-chatbot
 pip install -r requirements.txt
